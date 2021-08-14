@@ -2,7 +2,7 @@
 - 👀 I’m interested in Machine Learning, AI and Data Science
 - 🌱 I’m currently learning CNN
 - 💞️ I’m looking to collaborate on Machine Learning projects
-- 📫 You can reach me on Linkedin: https://www.linkedin.com/in/atharva-patil-a79a84176/
+- 📫 You can reach me on Linkedin: https://www.linkedin.com/in/atharva-patil18 
 
 <!---
 Atharva1604/Atharva1604 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
