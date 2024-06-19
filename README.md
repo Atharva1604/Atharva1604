@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Atharva Patil
-- 👀 I’m interested in Machine Learning, AI and Data Science
-- 🌱 I’m currently learning CNN
-- 💞️ I’m looking to collaborate on Machine Learning projects
+- 👀 I’m a Data Scientist working in the Life Sciences Industry
 - 📫 You can reach me on Linkedin: https://www.linkedin.com/in/atharva-patil18 
 
 <!---
